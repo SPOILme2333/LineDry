@@ -1,0 +1,75 @@
+/* Japanese. */
+
+/* AppDelegate */
+"Hide line" = "ロープを非表示";
+"Show line" = "ロープを表示";
+"Take everything down" = "すべて外す";
+"Handle screenshots" = "スクリーンショットを任せる";
+"Open screenshots folder" = "スクリーンショットのフォルダを開く";
+"Sounds" = "サウンド";
+"Keep on line" = "ロープに残す数";
+"As many as fit" = "収まるだけ";
+"%d photos" = "%d枚";
+"Also watch folders" = "フォルダも監視";
+"Add Folder…" = "フォルダを追加…";
+"Stop Watching" = "監視を停止";
+"New images saved to this folder will hang on the line." = "このフォルダに保存された新しい画像がロープに吊るされます。";
+"Shortcut" = "ショートカット";
+"Change Shortcut…" = "ショートカットを変更…";
+"Change Shortcut" = "ショートカットを変更";
+"None" = "なし";
+"Space" = "スペース";
+"Press the new shortcut" = "新しいショートカットを押してください";
+"Escape cancels. Delete removes the shortcut." = "escでキャンセル、deleteでショートカットを削除します。";
+"Size" = "サイズ";
+"Small" = "小";
+"Medium" = "中";
+"Large" = "大";
+"Bring the line down" = "ロープを降ろす";
+"When something new hangs" = "新しいものが吊るされたとき";
+"Over full screen apps" = "フルスクリーンのアプリの上にも";
+"Hang copied images" = "コピーした画像を吊るす";
+"Images you copy hang on the line too" = "コピーした画像もロープに吊るされます";
+
+/* GrabArea */
+"Copy" = "コピー";
+"Open" = "開く";
+"Save to Desktop" = "デスクトップに保存";
+"Discard" = "破棄";
+"Take down" = "外す";
+"Take down everything to the left" = "左側をすべて外す";
+"Take down everything to the right" = "右側をすべて外す";
+
+/* LineView */
+"Take a screenshot and it will hang here" = "スクリーンショットを撮ると、ここに吊るされます";
+
+/* PeggedView */
+"Copied" = "コピーしました";
+
+"When the pointer rests against the top of the screen" = "ポインタを画面の上端に置いたとき";
+"About LineDry" = "LineDry について";
+
+/* Windows port: platform-native terms (File Explorer, Recycle Bin, Paint, app name). */
+"Preview" = "プレビュー";
+"Edit" = "編集";
+"Show in File Explorer" = "エクスプローラーで表示";
+"Move to Recycle Bin" = "ごみ箱へ移動";
+"Exit LineDry" = "LineDry を終了";
+"Start with Windows" = "Windows の起動時に開始";
+"Screenshots hang instantly and skip the screenshots folder" = "スクリーンショットはすぐに掛けられ、スクリーンショット フォルダーに溜まりません";
+"LineDry, hanging copied images" = "LineDry、コピーした画像を掛けています";
+/* Retract animation */
+"Retract animation" = "しまうときの動き";
+"At once" = "すぐに";
+"sec" = "秒";
+/* Notes */
+"New note" = "新しいメモ";
+"Three notes at most" = "同時に3つまで";
+"Save" = "保存";
+"Cancel" = "キャンセル";
+/* Copied text */
+"Hang copied text" = "コピーした文字を出す";
+"Copy a passage and it appears as a note" = "文章をコピーするとメモが出ます";
+/* Text cards */
+"Words" = "文字";
+"Edit text" = "文字を編集";

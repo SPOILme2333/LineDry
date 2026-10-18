@@ -1,0 +1,74 @@
+/* English. Each key is the English text exactly as written in L("...") in
+   the code. Every language has the same keys; run
+   swift scripts/check-strings.swift to check. */
+
+/* AppDelegate */
+"Hide line" = "Hide line";
+"Show line" = "Show line";
+"Take everything down" = "Take everything down";
+"Handle screenshots" = "Handle screenshots";
+"Open screenshots folder" = "Open screenshots folder";
+"Sounds" = "Sounds";
+"Keep on line" = "Keep on line";
+"As many as fit" = "As many as fit";
+"%d photos" = "%d photos";
+"Also watch folders" = "Also watch folders";
+"Add Folder…" = "Add Folder…";
+"Stop Watching" = "Stop Watching";
+"New images saved to this folder will hang on the line." = "New images saved to this folder will hang on the line.";
+"Shortcut" = "Shortcut";
+"Change Shortcut…" = "Change Shortcut…";
+"Change Shortcut" = "Change Shortcut";
+"None" = "None";
+"Space" = "Space";
+"Press the new shortcut" = "Press the new shortcut";
+"Escape cancels. Delete removes the shortcut." = "Escape cancels. Delete removes the shortcut.";
+"Size" = "Size";
+"Small" = "Small";
+"Medium" = "Medium";
+"Large" = "Large";
+"Bring the line down" = "Bring the line down";
+"When something new hangs" = "When something new hangs";
+"Over full screen apps" = "Over full screen apps";
+"Hang copied images" = "Hang copied images";
+"Images you copy hang on the line too" = "Images you copy hang on the line too";
+
+/* GrabArea */
+"Copy" = "Copy";
+"Open" = "Open";
+"Save to Desktop" = "Save to Desktop";
+"Discard" = "Discard";
+"Take down" = "Take down";
+"Take down everything to the left" = "Take down everything to the left";
+"Take down everything to the right" = "Take down everything to the right";
+
+/* LineView */
+"Take a screenshot and it will hang here" = "Take a screenshot and it will hang here";
+
+/* PeggedView */
+"Copied" = "Copied";
+
+/* Windows port: platform-native terms (File Explorer, Recycle Bin, Paint, app name). */
+"Preview" = "Preview";
+"Edit" = "Edit";
+"Show in File Explorer" = "Show in File Explorer";
+"Move to Recycle Bin" = "Move to Recycle Bin";
+"Exit LineDry" = "Exit LineDry";
+"Start with Windows" = "Start with Windows";
+"Screenshots hang instantly and skip the screenshots folder" = "Screenshots hang instantly and skip the screenshots folder";
+"LineDry, hanging copied images" = "LineDry, hanging copied images";
+/* Retract animation */
+"Retract animation" = "Retract animation";
+"At once" = "At once";
+"sec" = "s";
+/* Notes */
+"New note" = "New note";
+"Three notes at most" = "Three notes at most";
+"Save" = "Save";
+"Cancel" = "Cancel";
+/* Copied text */
+"Hang copied text" = "Hang copied text";
+"Copy a passage and it appears as a note" = "Copy a passage and it hangs on the line";
+/* Text cards */
+"Words" = "Words";
+"Edit text" = "Edit text";

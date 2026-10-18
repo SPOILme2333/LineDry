@@ -1,0 +1,15 @@
+# build output — build.cmd rewrites it every run
+/build/
+*.exe
+*.pdb
+*.obj
+
+# local workshop: probes, captures, logs
+_watch/
+*.log
+verify-*.png
+
+# OS noise
+Thumbs.db
+desktop.ini
+.DS_Store

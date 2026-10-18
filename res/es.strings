@@ -1,0 +1,75 @@
+/* Spanish. */
+
+/* AppDelegate */
+"Hide line" = "Ocultar tendedero";
+"Show line" = "Mostrar tendedero";
+"Take everything down" = "Descolgar todo";
+"Handle screenshots" = "Encargarse de las capturas";
+"Open screenshots folder" = "Abrir carpeta de capturas";
+"Sounds" = "Sonidos";
+"Keep on line" = "Guardar en la cuerda";
+"As many as fit" = "Las que quepan";
+"%d photos" = "%d fotos";
+"Also watch folders" = "Vigilar también carpetas";
+"Add Folder…" = "Añadir carpeta…";
+"Stop Watching" = "Dejar de vigilar";
+"New images saved to this folder will hang on the line." = "Las imágenes nuevas que se guarden en esta carpeta se colgarán en la cuerda.";
+"Shortcut" = "Atajo";
+"Change Shortcut…" = "Cambiar atajo…";
+"Change Shortcut" = "Cambiar atajo";
+"None" = "Ninguno";
+"Space" = "Espacio";
+"Press the new shortcut" = "Pulsa el nuevo atajo";
+"Escape cancels. Delete removes the shortcut." = "Escape cancela. Borrar quita el atajo.";
+"Size" = "Tamaño";
+"Small" = "Pequeño";
+"Medium" = "Mediano";
+"Large" = "Grande";
+"Bring the line down" = "Bajar la cuerda";
+"When something new hangs" = "Cuando se cuelga algo nuevo";
+"Over full screen apps" = "Sobre apps a pantalla completa";
+"Hang copied images" = "Colgar imágenes copiadas";
+"Images you copy hang on the line too" = "Las imágenes que copias también se cuelgan";
+
+/* GrabArea */
+"Copy" = "Copiar";
+"Open" = "Abrir";
+"Save to Desktop" = "Guardar en el Escritorio";
+"Discard" = "Descartar";
+"Take down" = "Descolgar";
+"Take down everything to the left" = "Descolgar todo lo de la izquierda";
+"Take down everything to the right" = "Descolgar todo lo de la derecha";
+
+/* LineView */
+"Take a screenshot and it will hang here" = "Haz una captura y se quedará colgada aquí";
+
+/* PeggedView */
+"Copied" = "Copiado";
+
+"When the pointer rests against the top of the screen" = "Cuando el puntero descansa en el borde superior";
+"About LineDry" = "Acerca de LineDry";
+
+/* Windows port: platform-native terms (File Explorer, Recycle Bin, Paint, app name). */
+"Preview" = "Vista previa";
+"Edit" = "Editar";
+"Show in File Explorer" = "Mostrar en el Explorador de archivos";
+"Move to Recycle Bin" = "Mover a la papelera de reciclaje";
+"Exit LineDry" = "Salir de LineDry";
+"Start with Windows" = "Iniciar con Windows";
+"Screenshots hang instantly and skip the screenshots folder" = "Las capturas se cuelgan al instante y no se acumulan en la carpeta de capturas";
+"LineDry, hanging copied images" = "LineDry, colgando imágenes copiadas";
+/* Retract animation */
+"Retract animation" = "Animación de recogida";
+"At once" = "Al instante";
+"sec" = "s";
+/* Notes */
+"New note" = "Nota nueva";
+"Three notes at most" = "Tres notas como máximo";
+"Save" = "Guardar";
+"Cancel" = "Cancelar";
+/* Copied text */
+"Hang copied text" = "Colgar el texto copiado";
+"Copy a passage and it appears as a note" = "Al copiar un texto aparece una nota";
+/* Text cards */
+"Words" = "Palabras";
+"Edit text" = "Editar texto";

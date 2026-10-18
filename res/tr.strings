@@ -1,0 +1,72 @@
+/* Turkish. */
+
+/* AppDelegate */
+"Hide line" = "İpi gizle";
+"Show line" = "İpi göster";
+"Take everything down" = "Hepsini indir";
+"Handle screenshots" = "Ekran görüntülerini yönet";
+"Open screenshots folder" = "Ekran görüntüleri klasörünü aç";
+"Sounds" = "Sesler";
+"Keep on line" = "İpte tut";
+"As many as fit" = "Sığdığı kadar";
+"%d photos" = "%d fotoğraf";
+"Also watch folders" = "Klasörleri de izle";
+"Add Folder…" = "Klasör ekle…";
+"Stop Watching" = "İzlemeyi durdur";
+"New images saved to this folder will hang on the line." = "Bu klasöre kaydedilen yeni görseller ipe asılır.";
+"Shortcut" = "Kısayol";
+"Change Shortcut…" = "Kısayolu değiştir…";
+"Change Shortcut" = "Kısayolu değiştir";
+"None" = "Yok";
+"Space" = "Boşluk";
+"Press the new shortcut" = "Yeni kısayolu basın";
+"Escape cancels. Delete removes the shortcut." = "Escape iptal eder. Sil kısayolu kaldırır.";
+"Size" = "Boyut";
+"Small" = "Küçük";
+"Medium" = "Orta";
+"Large" = "Büyük";
+"Bring the line down" = "İpi indir";
+"When something new hangs" = "Yeni bir şey asıldığında";
+"Over full screen apps" = "Tam ekran uygulamaların üzerinde";
+"Hang copied images" = "Kopyalanan görselleri as";
+"Images you copy hang on the line too" = "Kopyaladığınız görseller de ipe asılır";
+
+/* GrabArea */
+"Copy" = "Kopyala";
+"Open" = "Aç";
+"Save to Desktop" = "Masaüstüne kaydet";
+"Discard" = "Sil";
+"Take down" = "İndir";
+"Take down everything to the left" = "Soldakilerin hepsini indir";
+"Take down everything to the right" = "Sağdakilerin hepsini indir";
+
+/* LineView */
+"Take a screenshot and it will hang here" = "Bir ekran görüntüsü al, buraya asılacak";
+
+/* PeggedView */
+"Copied" = "Kopyalandı";
+
+/* Windows port: platform-native terms (File Explorer, Recycle Bin, Paint, app name). */
+"Preview" = "Önizleme";
+"Edit" = "Düzenle";
+"Show in File Explorer" = "Dosya Gezgini''nde göster";
+"Move to Recycle Bin" = "Geri Dönüşüm Kutusu''na Taşı";
+"Exit LineDry" = "LineDry''dan çık";
+"Start with Windows" = "Windows ile başlat";
+"Screenshots hang instantly and skip the screenshots folder" = "Ekran görüntüleri anında asılır ve ekran görüntüleri klasöründe birikmez";
+"LineDry, hanging copied images" = "LineDry, kopyalanan görüntüleri asıyor";
+/* Retract animation */
+"Retract animation" = "Toplama animasyonu";
+"At once" = "Anında";
+"sec" = "sn";
+/* Notes */
+"New note" = "Yeni not";
+"Three notes at most" = "En fazla üç not";
+"Save" = "Kaydet";
+"Cancel" = "İptal";
+/* Copied text */
+"Hang copied text" = "Kopyalanan metni göster";
+"Copy a passage and it appears as a note" = "Bir metin kopyalayınca not çıkar";
+/* Text cards */
+"Words" = "Metin";
+"Edit text" = "Metni düzenle";

@@ -1,0 +1,72 @@
+/* Galician. */
+
+/* AppDelegate */
+"Hide line" = "Ocultar a corda";
+"Show line" = "Amosar a corda";
+"Take everything down" = "Descolgar todo";
+"Handle screenshots" = "Encargarse das capturas";
+"Open screenshots folder" = "Abrir o cartafol de capturas";
+"Sounds" = "Sons";
+"Keep on line" = "Gardar na corda";
+"As many as fit" = "As que caiban";
+"%d photos" = "%d fotos";
+"Also watch folders" = "Vixiar tamén cartafoles";
+"Add Folder…" = "Engadir cartafol…";
+"Stop Watching" = "Deixar de vixiar";
+"New images saved to this folder will hang on the line." = "As imaxes novas que se garden neste cartafol penduraranse na corda.";
+"Shortcut" = "Atallo";
+"Change Shortcut…" = "Cambiar o atallo…";
+"Change Shortcut" = "Cambiar o atallo";
+"None" = "Ningún";
+"Space" = "Espazo";
+"Press the new shortcut" = "Preme o novo atallo";
+"Escape cancels. Delete removes the shortcut." = "Escape cancela. Borrar quita o atallo.";
+"Size" = "Tamaño";
+"Small" = "Pequeno";
+"Medium" = "Mediano";
+"Large" = "Grande";
+"Bring the line down" = "Baixar a corda";
+"When something new hangs" = "Cando se pendura algo novo";
+"Over full screen apps" = "Sobre apps a pantalla completa";
+"Hang copied images" = "Pendurar imaxes copiadas";
+"Images you copy hang on the line too" = "As imaxes que copias tamén se penduran";
+
+/* GrabArea */
+"Copy" = "Copiar";
+"Open" = "Abrir";
+"Save to Desktop" = "Gardar no Escritorio";
+"Discard" = "Descartar";
+"Take down" = "Descolgar";
+"Take down everything to the left" = "Descolgar todo o da esquerda";
+"Take down everything to the right" = "Descolgar todo o da dereita";
+
+/* LineView */
+"Take a screenshot and it will hang here" = "Fai unha captura e quedará pendurada aquí";
+
+/* PeggedView */
+"Copied" = "Copiado";
+
+/* Windows port: platform-native terms (File Explorer, Recycle Bin, Paint, app name). */
+"Preview" = "Vista previa";
+"Edit" = "Editar";
+"Show in File Explorer" = "Amosar no Explorador de ficheiros";
+"Move to Recycle Bin" = "Mover ao lixo";
+"Exit LineDry" = "Saír de LineDry";
+"Start with Windows" = "Iniciar co Windows";
+"Screenshots hang instantly and skip the screenshots folder" = "As capturas colgan ao instante e non se acumulan no cartafol de capturas";
+"LineDry, hanging copied images" = "LineDry, pendurando imaxes copiadas";
+/* Retract animation */
+"Retract animation" = "Animación de recollida";
+"At once" = "Ao instante";
+"sec" = "s";
+/* Notes */
+"New note" = "Nota nova";
+"Three notes at most" = "Tres notas como máximo";
+"Save" = "Gardar";
+"Cancel" = "Cancelar";
+/* Copied text */
+"Hang copied text" = "Colgar o texto copiado";
+"Copy a passage and it appears as a note" = "Ao copiar un texto aparece unha nota";
+/* Text cards */
+"Words" = "Palabras";
+"Edit text" = "Editar o texto";

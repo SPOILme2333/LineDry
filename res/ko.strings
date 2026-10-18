@@ -1,0 +1,75 @@
+/* Korean. */
+
+/* AppDelegate */
+"Hide line" = "빨랫줄 가리기";
+"Show line" = "빨랫줄 보기";
+"Take everything down" = "모두 걷어내기";
+"Handle screenshots" = "스크린샷 관리";
+"Open screenshots folder" = "스크린샷 폴더 열기";
+"Sounds" = "사운드";
+"Keep on line" = "빨랫줄에 남길 개수";
+"As many as fit" = "들어가는 만큼";
+"%d photos" = "사진 %d장";
+"Also watch folders" = "다른 폴더도 지켜보기";
+"Add Folder…" = "폴더 추가…";
+"Stop Watching" = "지켜보기 중단";
+"New images saved to this folder will hang on the line." = "이 폴더에 새로 저장되는 이미지가 빨랫줄에 걸려요.";
+"Shortcut" = "단축키";
+"Change Shortcut…" = "단축키 변경…";
+"Change Shortcut" = "단축키 변경";
+"None" = "없음";
+"Space" = "스페이스";
+"Press the new shortcut" = "새 단축키를 누르세요";
+"Escape cancels. Delete removes the shortcut." = "Esc 키를 누르면 취소되고, Delete 키를 누르면 단축키가 지워져요.";
+"Size" = "크기";
+"Small" = "작게";
+"Medium" = "중간";
+"Large" = "크게";
+"Bring the line down" = "빨랫줄 내리기";
+"When something new hangs" = "새 항목이 걸릴 때";
+"Over full screen apps" = "전체 화면 앱 위에서도";
+"Hang copied images" = "복사한 이미지 걸기";
+"Images you copy hang on the line too" = "복사한 이미지도 빨랫줄에 걸려요";
+
+/* GrabArea */
+"Copy" = "복사하기";
+"Open" = "열기";
+"Save to Desktop" = "데스크탑에 저장";
+"Discard" = "버리기";
+"Take down" = "걷어내기";
+"Take down everything to the left" = "왼쪽 모두 걷어내기";
+"Take down everything to the right" = "오른쪽 모두 걷어내기";
+
+/* LineView */
+"Take a screenshot and it will hang here" = "스크린샷을 찍으면 여기에 걸려요";
+
+/* PeggedView */
+"Copied" = "복사됨";
+
+"When the pointer rests against the top of the screen" = "포인터를 화면 위쪽 끝에 두었을 때";
+"About LineDry" = "LineDry 정보";
+
+/* Windows port: platform-native terms (File Explorer, Recycle Bin, Paint, app name). */
+"Preview" = "미리 보기";
+"Edit" = "편집";
+"Show in File Explorer" = "파일 탐색기에서 표시";
+"Move to Recycle Bin" = "휴지통으로 이동";
+"Exit LineDry" = "LineDry 종료";
+"Start with Windows" = "Windows 시작 시 실행";
+"Screenshots hang instantly and skip the screenshots folder" = "스크린샷이 즉시 걸리고 스크린샷 폴더에 쌓이지 않습니다";
+"LineDry, hanging copied images" = "LineDry, 복사한 이미지를 걸고 있습니다";
+/* Retract animation */
+"Retract animation" = "걷어들이기";
+"At once" = "즉시";
+"sec" = "초";
+/* Notes */
+"New note" = "새 메모";
+"Three notes at most" = "최대 3개";
+"Save" = "저장";
+"Cancel" = "취소";
+/* Copied text */
+"Hang copied text" = "복사한 텍스트 띄우기";
+"Copy a passage and it appears as a note" = "글을 복사하면 메모가 나타납니다";
+/* Text cards */
+"Words" = "글";
+"Edit text" = "텍스트 편집";

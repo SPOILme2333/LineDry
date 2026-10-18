@@ -1,0 +1,75 @@
+/* Chinese (Simplified). */
+
+/* AppDelegate */
+"Hide line" = "隐藏晾衣绳";
+"Show line" = "显示晾衣绳";
+"Take everything down" = "全部取下";
+"Handle screenshots" = "接管截图";
+"Open screenshots folder" = "打开截图文件夹";
+"Sounds" = "声音";
+"Keep on line" = "绳上保留";
+"As many as fit" = "放得下的数量";
+"%d photos" = "%d 张";
+"Also watch folders" = "同时监视文件夹";
+"Add Folder…" = "添加文件夹…";
+"Stop Watching" = "停止监视";
+"New images saved to this folder will hang on the line." = "保存到此文件夹的新图片会挂到晾衣绳上。";
+"Shortcut" = "快捷键";
+"Change Shortcut…" = "更改快捷键…";
+"Change Shortcut" = "更改快捷键";
+"None" = "无";
+"Space" = "空格";
+"Press the new shortcut" = "请按下新的快捷键";
+"Escape cancels. Delete removes the shortcut." = "按 Esc 取消，按删除键移除快捷键。";
+"Size" = "大小";
+"Small" = "小";
+"Medium" = "中";
+"Large" = "大";
+"Bring the line down" = "放下晾衣绳";
+"When something new hangs" = "有新内容挂上时";
+"Over full screen apps" = "在全屏应用上";
+"Hang copied images" = "挂上复制的图片";
+"Images you copy hang on the line too" = "复制的图片也会挂上绳";
+
+/* GrabArea */
+"Copy" = "复制";
+"Open" = "打开";
+"Save to Desktop" = "保存到桌面";
+"Discard" = "丢弃";
+"Take down" = "取下";
+"Take down everything to the left" = "取下左侧全部";
+"Take down everything to the right" = "取下右侧全部";
+
+/* LineView */
+"Take a screenshot and it will hang here" = "截个图，它就会挂在这里";
+
+/* PeggedView */
+"Copied" = "已复制";
+
+"When the pointer rests against the top of the screen" = "指针停在屏幕顶端时";
+"About LineDry" = "关于 LineDry";
+
+/* Windows port: platform-native terms (File Explorer, Recycle Bin, Paint, app name). */
+"Preview" = "预览";
+"Edit" = "编辑";
+"Show in File Explorer" = "在资源管理器中显示";
+"Move to Recycle Bin" = "移到回收站";
+"Exit LineDry" = "退出 LineDry";
+"Start with Windows" = "开机自启动";
+"Screenshots hang instantly and skip the screenshots folder" = "截图即刻挂上，不再堆进截图文件夹";
+"LineDry, hanging copied images" = "LineDry，正在挂上复制的图片";
+/* Retract animation */
+"Retract animation" = "收起动画";
+"At once" = "立即";
+"sec" = "秒";
+/* Notes */
+"New note" = "新建便签";
+"Three notes at most" = "最多同时三处文字";
+"Save" = "保存";
+"Cancel" = "取消";
+/* Copied text */
+"Hang copied text" = "挂上复制的文字";
+"Copy a passage and it appears as a note" = "复制一段文字就挂到绳上";
+/* Text cards */
+"Words" = "文字";
+"Edit text" = "编辑文字";
