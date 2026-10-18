@@ -245,6 +245,7 @@ build.cmd
 本移植版同样以 MIT 许可发布，11 种语言的翻译文件沿用原项目（MIT）。
 
 原项目的 MIT 许可全文随仓库保留在 `LICENSE-Tendedero`；本移植版自己的许可见 `LICENSE`。
+
 ---
 
 ## 八、贡献者
